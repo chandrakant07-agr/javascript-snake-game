@@ -3,7 +3,7 @@
 A simple Snake Game built using HTML, CSS, and JavaScript. The objective of the game is to control the snake, eat food, and grow as long as possible without hitting the walls or itself.
 
 ## Demo
-<a href=#><video><source src="contributions.svg"></video></a>
+<a href=#><video><source src="demo.mp4"></video></a>
 
 ## Technologies Used
 - HTML
